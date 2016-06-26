@@ -5,6 +5,14 @@
 * 建议使用**markdown编辑器**的开
 * 此日志文件的版本控制在https://github.com/thtfcccj/Misc里
 
+###16.6.26: thtfcccj
+* Cofdet开源项目之实验平台子项目
+   嵌入式系统通用驱动程序接口及其实现-I2C主机设备驱动 视频录制并已上传
+* cofdet开源项目视频引导:
+   从github pull出子项目->第一个软件项目创建示例->修改完提交到github
+* 提交**IO口**标准化项目：**IOCtr** 模块的ARM之M0内核LPC1227实现(视频引导同步文件，未测试)
+  以上视频已上传至cofdet视频分享平台:http://thtfcccj.56.com
+
 -----------------------------
 ###16.6.20: thtfcccj
 * 为开源项目增加项目名称**Cofdet**
