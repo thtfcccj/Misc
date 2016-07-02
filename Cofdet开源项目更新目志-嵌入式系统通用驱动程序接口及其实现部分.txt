@@ -5,6 +5,12 @@
 * 建议使用**markdown编辑器**的开
 * 此日志文件的版本控制在https://github.com/thtfcccj/Misc里
 
+###16.7.02: thtfcccj
+* Cofdet开源项目之实验平台子项目
+   嵌入式系统通用驱动程序接口及其实现-Eeprom设备驱动程序 视频录制并已上传视频分享平台:http://thtfcccj.56.com
+* I2c通用驱动程序code review,(含LPM ARM M0的实现),上传至https://github.com/thtfcccj
+* Eeprom通用驱动程序：增加对24系列I2C存储器的支持(底层使用I2C通用驱动程序)
+
 ###16.6.26: thtfcccj
 * Cofdet开源项目之实验平台子项目
    嵌入式系统通用驱动程序接口及其实现-I2C主机设备驱动 视频录制并已上传
